@@ -1,4 +1,4 @@
-package com.walker.thread.com.walker.newcoder;
+package com.walker.newcoder;
 
 import org.junit.Test;
 
