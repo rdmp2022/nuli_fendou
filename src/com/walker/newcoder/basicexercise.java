@@ -40,7 +40,7 @@ public class basicexercise {
      * =500M*（3/5）
      * =500M*0.6
      * =300M
-     * 所以Eden区域的大小为300M。
+     * 所以Eden区域的大小为300M。123
      */
 
 
